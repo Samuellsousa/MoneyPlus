@@ -33,4 +33,4 @@ O **MoneyPlus** é um sistema de controle financeiro, desenvolvido para gerencia
 ### 1. **Clonar o repositório**
 
 ```bash
-git clone https://github.com/seunome/moneyplus.git
+git clone https://github.com/Samuellsousa/MoneyPlus.git
